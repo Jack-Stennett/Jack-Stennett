@@ -13,7 +13,7 @@ I'm a researcher and strategist focused on impact-driven projects, particularly 
 ## 🌱 Currently Learning
 
 - Machine learning for social impact
-- [Levelling up in AI Safety] https://docs.google.com/document/d/1b83_-eo9NEaKDKc9R3P5h5xkLImqMw8ADLmi__rkLo4/edit?tab=t.0#heading=h.fke682cxqkxr
+- [Levelling up in AI Safety] (https://docs.google.com/document/d/1b83_-eo9NEaKDKc9R3P5h5xkLImqMw8ADLmi__rkLo4/edit?tab=t.0#heading=h.fke682cxqkxr)
 - PyTorch, CNNs, and generative models (GANs & VAEs)
 
 ## 🤝 Open to Collaborate On
