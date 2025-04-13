@@ -27,6 +27,7 @@ I'm a researcher and strategist focused on impact-driven projects, particularly 
 - [My LinkedIn](https://www.linkedin.com/in/jack-stennett-821390138/)
 - [My GitHub](https://github.com/Jack-Stennett/Jack-Stennett)
 - [My Google Scholar Research Hub](https://scholar.google.com/citations?user=GATFTMcAAAAJ&hl=en&oi=ao)
+- [My EA Forum Account](https://forum.effectivealtruism.org/users/jack_s)
 - [My Blog](https://torchestogether.substack.com)
 
 ---
