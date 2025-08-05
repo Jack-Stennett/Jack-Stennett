@@ -18,7 +18,7 @@ I'm a researcher and strategist focused on impact-driven projects, particularly 
 
 ## 🤝 Open to Collaborate On
 
-- Empirical animal welfare research
+- Ambitious empirical or theoretical work on alternative proteins and animal welfare
 - Exploratory AI-China-related Projects
 - Impact evaluation tools
 - Rapid upskilling in ML/AI
