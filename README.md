@@ -5,7 +5,7 @@ I'm the Programme Director at ML4Good. I'm also interested in a bunch of other t
 ## Interests
 
 - China! I was an anthropologist in China, and I'm now trying to keep up with China's progress in AI, tech more generally
-- Promoting animal welfare and reducing suffering. Factory farming is a moral catastrophe.
+- Promoting animal welfare. Factory farming is a moral catastrophe.
 - General interest in AI governance and emerging tech risks
 - Calibrating an accurate worldview - forecasting and prediction markets
 - Movement strategy and fieldbuilding - cultivating and identifying talent
