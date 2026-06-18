@@ -1,30 +1,26 @@
 # Hi, I’m @Jack-Stennett
 
-I'm a researcher and strategist focused on impact-driven projects, particularly at the intersection of animal advocacy, existential risk, AI, and systems thinking.
+I'm the Programme Director at ML4Good. I'm also interested in a bunch of other things!
 
 ## Interests
 
-- Intersection of Chinese tech progress, national ambitions and tech risk
-- AI governance and emerging tech risks
+- China! I was an anthropologist in China, and I'm now trying to keep up with China's progress in AI, tech more generally
+- Promoting animal welfare and reducing suffering. Factory farming is a moral catastrophe.
+- General interest in AI governance and emerging tech risks
 - Calibrating an accurate worldview - forecasting and prediction markets
-- Movement strategy and effective advocacy  
+- Movement strategy and fieldbuilding - cultivating and identifying talent
 - An end to suffering
+- Songwriting! I write poetic, narrative lyrics and sometimes interesting guitar music. I invented the EA-mo genre. (Effective Altruism + Emo)
+- Looking after and intently studying a very small baby
 
 ## Currently working on
 
-- Project on Cloud Governance (with Onni Arne)
-- Project on Market Shaping Mechanisms for AI (with Joël Naoki Christoph)
-- Project on Political Economy Incentives for AI Governance in China (independent, some support from Apart Research)
-- Project on the Dissemination of AI technology in factory farming in China (independent, looking for collaborators)
-- [Levelling up in AI Safety](https://docs.google.com/document/d/1b83_-eo9NEaKDKc9R3P5h5xkLImqMw8ADLmi__rkLo4/edit?tab=t.0#heading=h.fke682cxqkxr)
-- Learning PyTorch, CNNs, and generative models (GANs & VAEs)
-
+- With ML4Good - Running bootcamps and helping design new programmes to get people involved in AI Safety
+- Other - Working a tiny bit on a project on political economy in AI Governance in China
+  
 ## Open to Collaborate On
 
-- Ambitious empirical or theoretical work on alternative proteins and animal welfare
-- Exploratory AI-China-related Projects
-- Impact evaluation tools
-- Rapid upskilling in ML/AI
+- Anything related to AI safety fieldbuilding, and education in AI safety
 
 ## Check Out
 - [My LinkedIn](https://www.linkedin.com/in/jack-stennett-821390138/)
@@ -33,5 +29,5 @@ I'm a researcher and strategist focused on impact-driven projects, particularly 
 - [My EA Forum Account](https://forum.effectivealtruism.org/users/jack_s)
 - [My LessWrong Account](https://www.lesswrong.com/users/jack_s) 
 - [My Blog](https://torchestogether.substack.com)
-
+- [My Music](https://open.spotify.com/artist/7sbeeee6bXVPbq4CiW0Cca)
 ---
